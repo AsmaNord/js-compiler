@@ -2,7 +2,7 @@
 
 Note: only concerned with integers for now
 Input text - 1 + 3 => [1, ' ', +, ' ', 3]
-Lexer - tokenises the input
+Lexer - tokenizes the input
 Parser - goes through the tokens and creates an abstract syntax tree (AST)
 Analyse and calculate - use the AST and perform type cheking and calculations/operations
 
